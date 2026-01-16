@@ -43,7 +43,7 @@ Here are some of the live websites I have designed, developed, and managed:
 
 ### 📊 GitHub Stats
 
-![Kanwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Kanwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanwalyaseen8&show_icons=true&theme=radical)
 ---
 
 ### 📫 Connect with Me
